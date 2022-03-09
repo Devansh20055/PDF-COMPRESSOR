@@ -1,6 +1,6 @@
 class Presets(object):
-    WELCOME_TXT = "<b>Hello.. {}</b>\n<i>I can compress the size of pdf docs." \ "Send me a pdf document to see " \
-                  "the magic !</i> "\ "JOIN :- @TEAM_SILENT_KING TO USE ME NON STOP "
+    WELCOME_TXT = "<b>Hello.. {}</b>\n<i>I can compress the size of pdf docs. Send me a pdf document to see " \
+                  "the magic !</i> "
     INVALID_FORMAT = "<b>Error:</b>\n<i>I can only compress pdf documents. Please make it sure, you have given me a " \
                      "valid document. Try again...</i>"
     WAIT_MESSAGE = "⌛️ <b>Processing</b> ⌛"
